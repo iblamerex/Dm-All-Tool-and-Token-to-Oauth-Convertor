@@ -1,0 +1,8 @@
+discord==1.7.3
+colorama
+requests
+time
+asyncio
+datetime
+random
+pystyle
