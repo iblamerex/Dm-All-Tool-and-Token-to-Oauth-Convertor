@@ -1,6 +1,6 @@
 # Dm-All-Tool
-A Python Tool in which your discord will dm every member of a server
-Nothing more to explain just use it !
+- A Python Tool in which your discord will dm every member of a server & Convert Discord Bot Token to Oauths
+- Nothing more to explain just use it !
 
 
 # SUPPORT
